@@ -10,5 +10,5 @@ This project uses Foursquare private API keys to fetch data from Foursquare API.
 
 ### To show the notebook with visualizations
 
-Since GitHub does not render Jupyter Notebook, you can use the following lonk to see the visualizations.
+Since GitHub does not render Jupyter Notebook, you can use the following link to see the visualizations.
 https://nbviewer.jupyter.org/github/guldenturgay/Coursera_Capstone/blob/master/data_science_capstone_project.ipynb
